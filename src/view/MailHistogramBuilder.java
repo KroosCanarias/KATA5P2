@@ -1,5 +1,6 @@
 
 package view;
+import model.Mail;
 import java.util.List;
 import model.*;
 

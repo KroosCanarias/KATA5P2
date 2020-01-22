@@ -1,9 +1,9 @@
 package view;
 
+import model.Mail;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
-import model.Mail;
 
 public class MailListReader {
 
